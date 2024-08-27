@@ -1,8 +1,14 @@
 # Power-BI Project
 
 https://github.com/user-attachments/assets/89236695-472b-43ef-b543-69f0881bb85a
+
+
 We Sort the data by our Requirement for Example by (Year,City,Month ect,.....)
 To show the Best Output for the Customer
+
+https://github.com/user-attachments/assets/0e4fbd14-0773-4772-bf1a-ed5519144a77
+
+ 
 
 ![Screenshot 2024-08-27 131021](https://github.com/user-attachments/assets/fa2cc214-0006-459b-9668-d69cbad3b9bf)
 
